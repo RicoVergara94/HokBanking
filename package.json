@@ -1,0 +1,22 @@
+{
+  "name": "techtogetherfinanceapp",
+  "version": "1.0.0",
+  "description": "An app to manage personal finances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicoVergara94/TechTogetherFinanceApp.git"
+  },
+  "author": "Tracy Kwena, Ricardo Vergara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicoVergara94/TechTogetherFinanceApp/issues"
+  },
+  "homepage": "https://github.com/RicoVergara94/TechTogetherFinanceApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

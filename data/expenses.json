@@ -1,27 +1,29 @@
-[
+{
+    "expenses": [
     {
-      "_id": "5c8a34ed14eb5c17645c9108",
+      "id": "5c8a34ed14eb5c17645c9108",
       "category": "Amazon",
       "amount" : 70,
       "date" : "2021-08-05"
     },
     {
-        "_id": "5c8a34ed14eb5c17645c9108",
+        "id": "5c8a34ed14eb5c17645c9109",
         "category": "Food",
         "amount" : 90,
         "date" : "2021-08-05"
     },
     {
-        "_id": "5c8a34ed14eb5c17645c9108",
+        "id": "5c8a34ed14eb5c17645c9110",
         "category": "Rent",
         "amount" : 900,
         "date" : "2021-08-05"
     },
     {
-        "_id": "5c8a34ed14eb5c17645c9108",
+        "id": "5c8a34ed14eb5c17645c9111",
         "category": "Amazon",
         "amount" : 85,
         "date" : "2021-08-05"
     }
 
-]
+  ]
+}
